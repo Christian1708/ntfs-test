@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ntfs-test/static/css/main.e410ff96.chunk.css",
-    "main.js": "/ntfs-test/static/js/main.8fc4d061.chunk.js",
-    "main.js.map": "/ntfs-test/static/js/main.8fc4d061.chunk.js.map",
+    "main.css": "/ntfs-test/static/css/main.8af84479.chunk.css",
+    "main.js": "/ntfs-test/static/js/main.6a21f4a7.chunk.js",
+    "main.js.map": "/ntfs-test/static/js/main.6a21f4a7.chunk.js.map",
     "runtime-main.js": "/ntfs-test/static/js/runtime-main.44d7db94.js",
     "runtime-main.js.map": "/ntfs-test/static/js/runtime-main.44d7db94.js.map",
     "static/js/2.07fd58c6.chunk.js": "/ntfs-test/static/js/2.07fd58c6.chunk.js",
     "static/js/2.07fd58c6.chunk.js.map": "/ntfs-test/static/js/2.07fd58c6.chunk.js.map",
     "index.html": "/ntfs-test/index.html",
-    "static/css/main.e410ff96.chunk.css.map": "/ntfs-test/static/css/main.e410ff96.chunk.css.map",
+    "static/css/main.8af84479.chunk.css.map": "/ntfs-test/static/css/main.8af84479.chunk.css.map",
     "static/js/2.07fd58c6.chunk.js.LICENSE.txt": "/ntfs-test/static/js/2.07fd58c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44d7db94.js",
     "static/js/2.07fd58c6.chunk.js",
-    "static/css/main.e410ff96.chunk.css",
-    "static/js/main.8fc4d061.chunk.js"
+    "static/css/main.8af84479.chunk.css",
+    "static/js/main.6a21f4a7.chunk.js"
   ]
 }
